@@ -33,4 +33,5 @@
 ##### 2. As after obsrbing the data set while doing the visualizations I want to consider the "Description" columns as my target variable to get the code to be explored. 
 ##### 3. Here I have no chance to use the column "Location Description" as we have lot of null values and no chance to get the perfect visualizations.
 ##### 4. In the future project I amd going to analyse the accuracy of the crimes using the Description as target variable, and also goin to use the particular classifiers and machine learning problem curve depending upon the data. 
-##### 5. I am going to split the data and create piplelines and also finding out the accuracy of test and train data sets. 
+##### 5. I am going to split the data and create piplelines and also finding out the accuracy of test and train data sets.
+##### 6. On a note I just want to let you know that I could generate more visualisations and process the data ways while doing the final project.
