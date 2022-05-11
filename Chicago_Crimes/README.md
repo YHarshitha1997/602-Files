@@ -36,8 +36,7 @@ As we observe here "logistic regression model" performs well as it got 90% accur
 3. And also comparing the F1 score among the models here also the logistic regression is best with 72.61%. But here in this case both logistic regression and KNN-Model are same with same score so, logistic regression is the best model for this data
 4. Coming to the crimes most of the crimes are theft based, in 10th district the crimes are high and also most of the crimes occured in 10th month i.e., October.
 ## Results
-![png](https://user-images.githubusercontent.com/95833253/167915822-4ac5a471-cd1c-4d1f-ad44-a7b36e652aba.png)
-
+![png](https://user-images.githubusercontent.com/95833253/167917814-5e1128ff-7f67-43e5-a96a-3926bbac8515.png)
 ## Further Exploration and Features:
 1. I want to explore more visualizations in the final submission.
 2. As after obsrbing the data set while doing the visualizations I want to consider the "Description" columns as my target variable to get the code to be explored. 
