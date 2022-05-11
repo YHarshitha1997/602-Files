@@ -27,11 +27,11 @@
 21. Longitude - The longitude of the location where the incident occurred. 
 22. The location where the incident occurred in a format that allows for creation of maps and other geographic operations on this data portal. 
 ## Exploratory Data Analysis
-##### Using this data frame I have shown the basic visualisations. In have used different types of visualisations where the data can be described in different ways. It shows the basic data exploration and many statements. And here while I was doing the visualisations I faced problems due to large number of categorical columns and values. While doing some plots it was showing the data as bulk and cannot get the proper visualizations. So, that in this case I need to take the value count to a limit from the columns that I need to visualize.
+Using this data frame I have shown the basic visualisations. In have used different types of visualisations where the data can be described in different ways. It shows the basic data exploration and many statements. And here while I was doing the visualisations I faced problems due to large number of categorical columns and values. While doing some plots it was showing the data as bulk and cannot get the proper visualizations. So, that in this case I need to take the value count to a limit from the columns that I need to visualize.
 ## Further Exploration and Features:
-##### 1. I want to explore more visualizations in the final submission.
-##### 2. As after obsrbing the data set while doing the visualizations I want to consider the "Description" columns as my target variable to get the code to be explored. 
-##### 3. Here I have no chance to use the column "Location Description" as we have lot of null values and no chance to get the perfect visualizations.
-##### 4. In the future project I amd going to analyse the accuracy of the crimes using the Description as target variable, and also goin to use the particular classifiers and machine learning problem curve depending upon the data. 
-##### 5. I am going to split the data and create piplelines and also finding out the accuracy of test and train data sets.
-##### 6. On a note I just want to let you know that I could generate more visualisations and process the data ways while doing the final project.
+1. I want to explore more visualizations in the final submission.
+2. As after obsrbing the data set while doing the visualizations I want to consider the "Description" columns as my target variable to get the code to be explored. 
+3. Here I have no chance to use the column "Location Description" as we have lot of null values and no chance to get the perfect visualizations.
+4. In the future project I amd going to analyse the accuracy of the crimes using the Description as target variable, and also goin to use the particular classifiers and machine learning problem curve depending upon the data. 
+5. I am going to split the data and create piplelines and also finding out the accuracy of test and train data sets.
+6. On a note I just want to let you know that I could generate more visualisations and process the data ways while doing the final project.
