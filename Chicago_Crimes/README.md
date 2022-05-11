@@ -2,7 +2,7 @@
 ## Data Source
 #### https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2
 ## Objective:
-#### This dataset includes reported incidents of crime (with the exception of murders, for which data is available for each victim) that occurred in the City of Chicago between 2001 and the present, minus the most recent seven days. The information is derived from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system. Addresses are shown at the block level only to protect the privacy of crime victims, and specific locations are not identified.
+#### This dataset includes reported incidents of crime (with the exception of murders, for which data is available for each victim) that occurred in the City of Chicago between 2001 and the present, minus the most recent seven days. The information is derived from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system. Addresses are shown at the block level only to protect the privacy of crime victims, and specific locations are not identified.**
 ## Data Description :
 1. ID -  Unique identifier for the record. 
 2. Case Number - The Chicago Police Department RD Number
