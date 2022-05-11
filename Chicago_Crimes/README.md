@@ -58,3 +58,9 @@ As we observe here "logistic regression model" performs well as it got 90% accur
 7. A typical approach is, to improve a model to use more data. In this case, I have only taken the chunk data i.e., upto 100000 but including whole can improve the overall score as taking the chunk lot of data got missed like number of years or months.
 8. We could try various techniques, such as a complicated neural network, but this could lead to additional problems and is overkill.
 9. For more exploration we can use ensemble models, by using this the scores may get imporved.
+## References
+1. https://www.geeksforgeeks.org/how-to-load-a-massive-file-as-small-chunks-in-pandas/
+2. https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+3. https://scikit-learn.org/stable/modules/tree.html
+4. https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+5. https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_curve.html
