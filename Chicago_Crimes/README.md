@@ -28,6 +28,16 @@
 22. The location where the incident occurred in a format that allows for creation of maps and other geographic operations on this data portal. 
 ## Exploratory Data Analysis
 Using this data frame I have shown the basic visualisations. In have used different types of visualisations where the data can be described in different ways. It shows the basic data exploration and many statements. And here while I was doing the visualisations I faced problems due to large number of categorical columns and values. While doing some plots it was showing the data as bulk and cannot get the proper visualizations. So, that in this case I need to take the value count to a limit from the columns that I need to visualize.
+## Model Selection:
+1. Logistic regression performs well among the decision tree model and KNN-model.
+2. The roc accuracy score is higher for the logistic regression as it maintains 90.01% 
+3. And also comparing the F1 score among the models here also the logistic regression is best with 72.61%. But here in this case both logistic regression and KNN-Model are same with same score so, logistic regression is the best model for this data
+4. Coming to the crimes most of the crimes are theft based, in 10th district the crimes are high and also most of the crimes occured in 10th month i.e., October.
+## Summary:
+1. Logistic regression performs well among the decision tree model and KNN-model.
+2. The roc accuracy score is higher for the logistic regression as it maintains 90.01% 
+3. And also comparing the F1 score among the models here also the logistic regression is best with 72.61%. But here in this case both logistic regression and KNN-Model are same with same score so, logistic regression is the best model for this data
+4. Coming to the crimes most of the crimes are theft based, in 10th district the crimes are high and also most of the crimes occured in 10th month i.e., October.
 ## Further Exploration and Features:
 1. I want to explore more visualizations in the final submission.
 2. As after obsrbing the data set while doing the visualizations I want to consider the "Description" columns as my target variable to get the code to be explored. 
