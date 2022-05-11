@@ -28,6 +28,8 @@
 22. The location where the incident occurred in a format that allows for creation of maps and other geographic operations on this data portal. 
 ## Exploratory Data Analysis
 Using this data frame I have shown the basic visualisations. In have used different types of visualisations where the data can be described in different ways. It shows the basic data exploration and many statements. And here while I was doing the visualisations I faced problems due to large number of categorical columns and values. While doing some plots it was showing the data as bulk and cannot get the proper visualizations. So, that in this case I need to take the value count to a limit from the columns that I need to visualize.
+## Modeling:
+I choose "Arrest" as my target variable for modeling . And I have created pipelines for modeling but we dont have any numerical features in the dataset so, we have only categorical variables we created categorical pipeline.
 ## Model Selection:
 As we observe here "logistic regression model" performs well as it got 90% accuracy. So, I selected this as the best model for my data.
 ## Summary:
