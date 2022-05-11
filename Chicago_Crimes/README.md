@@ -29,10 +29,7 @@
 ## Exploratory Data Analysis
 Using this data frame I have shown the basic visualisations. In have used different types of visualisations where the data can be described in different ways. It shows the basic data exploration and many statements. And here while I was doing the visualisations I faced problems due to large number of categorical columns and values. While doing some plots it was showing the data as bulk and cannot get the proper visualizations. So, that in this case I need to take the value count to a limit from the columns that I need to visualize.
 ## Model Selection:
-1. Logistic regression performs well among the decision tree model and KNN-model.
-2. The roc accuracy score is higher for the logistic regression as it maintains 90.01% 
-3. And also comparing the F1 score among the models here also the logistic regression is best with 72.61%. But here in this case both logistic regression and KNN-Model are same with same score so, logistic regression is the best model for this data
-4. Coming to the crimes most of the crimes are theft based, in 10th district the crimes are high and also most of the crimes occured in 10th month i.e., October.
+As we observe here "logistic regression model" performs well as it got 90% accuracy. So, I selected this as the best model for my data.
 ## Summary:
 1. Logistic regression performs well among the decision tree model and KNN-model.
 2. The roc accuracy score is higher for the logistic regression as it maintains 90.01% 
@@ -45,3 +42,6 @@ Using this data frame I have shown the basic visualisations. In have used differ
 4. In the future project I amd going to analyse the accuracy of the crimes using the Description as target variable, and also goin to use the particular classifiers and machine learning problem curve depending upon the data. 
 5. I am going to split the data and create piplelines and also finding out the accuracy of test and train data sets.
 6. On a note I just want to let you know that I could generate more visualisations and process the data ways while doing the final project.
+7. A typical approach is, to improve a model to use more data. In this case, I have only taken the chunk data i.e., upto 100000 but including whole can improve the overall score as taking the chunk lot of data got missed like number of years or months.
+8. We could try various techniques, such as a complicated neural network, but this could lead to additional problems and is overkill.
+9. For more exploration we can use ensemble models, by using this the scores may get imporved.
